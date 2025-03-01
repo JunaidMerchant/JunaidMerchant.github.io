@@ -27,12 +27,10 @@ I am a data analyst with the Big Data for Health Equity (BD4HE) team at the Univ
 * B.A. in Psychology and Studio Art, University of North Carolina, Asheville 
 
 
-
 ## Strengths and Interests
 * Social Epidemiology 
 * Data Science and Visualizations
 * Multilevel Modeling      
 * Social and Affective Neuroscience       
 * Open Science / Data Practices
-* Computational Social Science
 
