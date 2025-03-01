@@ -11,11 +11,7 @@ redirect_from:
 
 # <span style="color:darkred">Junaid Salim Merchant</span> | *Curriculum Vitae* #
 
-[email](http://merchantjs@gmail.com) | 
-[GitHub](https://github.com/JunaidMerchant) | 
-[Google Scholar](https://scholar.google.com/citations?user=MeX7UKIAAAAJ) | 
-[ORCID](https://orcid.org/0000-0002-4315-6211) | [OSF](https://osf.io/85skm/) |
-[LinkedIn](https://www.linkedin.com/in/junaid-s-merchant/) 
+
 
 ## Education ##
 **2022** - **<span style="color:darkred"> Ph.D. in Neuroscience and Cognitive Science (NACS)</span>** | **University of Maryland**, College Park   
