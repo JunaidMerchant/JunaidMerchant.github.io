@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 ## <span style="color:darkred">Data Science</span>
 
-My work uses achine learning models for social media-derived social-contextual determinants of health and data-rich visualizations. 
+My work uses machine learning models for social media-derived social-contextual determinants of health and data-rich visualizations. 
 
 
 **Social Media Derived Racial Sentiment**
@@ -41,7 +41,7 @@ My work uses achine learning models for social media-derived social-contextual d
 
 
 
-![Racial Sentiment](https://raw.githubusercontent.com/JunaidMerchant/JunaidMerchant.github.io/refs/heads/master/images/Epidemiology_2024_Figure2.svg)
+![Racial Sentiment](https://raw.githubusercontent.com/JunaidMerchant/JunaidMerchant.github.io/refs/heads/master/images/Epidemiology_2024_Figure2.png)
 
 **Interactive Data Dashboards**
 
@@ -62,7 +62,7 @@ I am the lead investigator implementing multilevel modeling approaches to examin
 
 *Mental health disparities among US high school students at the intersection of race, gender, and sexual orientation in the CDC's Youth Risk Behavior Survey data:*
 
-![YouthMentalHealth](https://raw.githubusercontent.com/JunaidMerchant/JunaidMerchant.github.io/refs/heads/master/images/YouthMentalHealth.svg)
+![YouthMentalHealth](https://raw.githubusercontent.com/JunaidMerchant/JunaidMerchant.github.io/refs/heads/master/images/YouthMentalHealth.png)
 
 
 
