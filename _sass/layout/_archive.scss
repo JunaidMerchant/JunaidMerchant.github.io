@@ -15,10 +15,10 @@
   }
 
   a {
-    text-decoration: underline;
-
+    text-decoration:  solid;
+    color: darkred; 
     &:hover {
-      text-decoration: underline;
+      text-decoration: double;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -243,7 +243,8 @@
     }
   }
 }
-a:link {
+
+/*a:link {
   color: darkred;
 }
 
@@ -253,4 +254,4 @@ a:hover {
 
 a:active {
   color: darkred;
-}
+} */

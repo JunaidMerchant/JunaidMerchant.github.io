@@ -83,8 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: var(--global-text-color-light);
-      border: 1px solid var(var(--global-border-color));
+      color: WhiteSmoke;
+      border: 1px solid WhiteSmoke;
       border-radius: 0;
 
       &:hover {
@@ -132,7 +132,7 @@
     text-align: center;
     text-decoration: none;
     color: var(--global-text-color-light);
-    border: 1px solid var(var(--global-border-color));
+    border: 1px solid WhiteSmoke;
     border-radius: $border-radius;
 
     &:hover {
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: var(--global-bg-color);
+  background: WhiteSmoke;
 
   a {
     display: block;
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: var(--global-base-color);
+    background-color: WhiteSmoke;
     color: #fff;
     cursor: pointer;
     z-index: 100;
