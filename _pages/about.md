@@ -27,31 +27,32 @@ I have over a decade of experience providing data-driven insights through cuttin
 
 
 ## <span style="color:DarkRed">Professional Highlights</span>
-**Data Analyst at Big Data for Health Equity (BD4HE)**
-- Advancing multilevel modeling techniques for health inequities  
-- Developed social media machine learning models for public sentiment  
-- Large-scale data management and analytics on public health datasets  
+**Data Analyst at Big Data for Health Equity (BD4HE)**  
+&ensp;• Advancing multilevel modeling techniques for health inequities  
+&ensp;• Developed social media machine learning models for public sentiment  
+&ensp;• Large-scale data management and analytics on public health datasets  
 
-**Neuroscience of Social Interaction at University of Maryland**
-- Supercomputing implementation for neuroimaging data  
-- Network-based and Bayesian analyses of fMRI data  
+**Neuroscience of Social Interaction at University of Maryland**  
+&ensp;• Supercomputing implementation for neuroimaging data  
+&ensp;• Network-based and Bayesian analyses of fMRI data  
 
-**Pediatric Psychiatry at Georgetown University / Children’s National**
-- End-to-end pipeline development for large-scale clinical data collection  
-- Trained graduate students and organized hands-on analysis workshops
-
-
-## <span style="color:DarkRed">Education</span> 
-* Ph.D. in Neuroscience and Cognitive Science, University of Maryland
-* M.S. in Experimental Psychology, Seton Hall University
-* B.A. in Psychology and Studio Art, University of North Carolina, Asheville 
+**Pediatric Psychiatry at Georgetown University / Children’s National**  
+&ensp;• End-to-end pipeline development for large-scale clinical data collection  
+&ensp;• Trained graduate students and organized hands-on analysis workshops
 
 
-## <span style="color:DarkRed">Strengths and Interests</span>: 
-* Data Science and Visualizations
-* Multilevel Modeling
-* Social Epidemiology
-* Cognitive Neuroscience
-* Open Science / Data Practices
+## <span style="color:DarkRed">Education</span>  
+&ensp;• Ph.D. in Neuroscience and Cognitive Science, University of Maryland  
+&ensp;• M.S. in Experimental Psychology, Seton Hall University  
+&ensp;• B.A. in Psychology and Studio Art, University of North Carolina, Asheville  
+
+
+## <span style="color:DarkRed">Strengths and Interests</span>:  
+&ensp;• Data Science and Visualizations  
+&ensp;• Multilevel Modeling  
+&ensp;• Social Epidemiology  
+&ensp;• Cognitive Neuroscience  
+&ensp;• Open Science / Data Practices
+
 
 
