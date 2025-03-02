@@ -18,7 +18,7 @@ Hi! I'm Junaid.
 [LinkedIn](https://www.linkedin.com/in/junaid-s-merchant/) 
 
 
-I am a data analyst with the Big Data for Health Equity (BD4HE) team at the University of Maryland. My work examines teen mental health using advanced multilevel modeling, novel data science applications, and large-scale public health datasets. Before I joined the Epidemiology and Biostatistics Department, my background is in the psychological sciences and I have over a decade of experience in cognitive neuroscience research. I am driven by a tireless curiosity for tackling hight impact questions about how our social worlds shape us through cutting-edge approaches. 
+I am a data analyst with the Big Data for Health Equity (BD4HE) team at the University of Maryland. My work examines health inequities using advanced multilevel modeling, novel data science applications, and large-scale public health datasets. Before I joined the Epidemiology and Biostatistics Department, my background was in the psychological sciences and I have over a decade of experience in cognitive neuroscience research. I am driven by a tireless curiosity for tackling high-impact questions about how our social worlds shape us through cutting-edge approaches. 
 
 
 ## Education 
