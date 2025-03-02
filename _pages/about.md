@@ -20,13 +20,13 @@ I am a data analyst with the Big Data for Health Equity (BD4HE) team at the Univ
 
 
 
-## Education 
+## <span style="color:darkred">Education</span>
 * Ph.D. in Neuroscience and Cognitive Science, University of Maryland
 * M.S. in Experimental Psychology, Seton Hall University
 * B.A. in Psychology and Studio Art, University of North Carolina, Asheville 
 
 
-## Strengths and Interests
+## <span style="color:darkred">Strengths and Interests</span>
 * Social Epidemiology 
 * Data Science and Visualizations
 * Multilevel Modeling      
