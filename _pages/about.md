@@ -19,11 +19,11 @@ redirect_from:
 
 ## <span style="color:DarkRed">About Me</span> 
 
-I have over a decade of experience providing data-driven insights through cutting-edge analytic pipeline development and large-scale data management. I am currently investigating health inequities using advanced multilevel modeling and novel data science applications. My background is in cognitive neuroscience and I have wide-ranging skillset in research design, data collection, project management, high performance computing clusters, and programming languages. I am driven by a tireless curiosity for tackling high impact questions about how our social worlds shape us through cutting-edge approaches. 
+I have over a decade of experience providing data-driven insights through cutting-edge analytic pipeline development and large-scale data management. I am currently investigating health inequities using advanced multilevel modeling and novel data science applications. My background is in cognitive neuroscience and I have wide-ranging skillsets in research design, data collection, project management, high performance computing clusters, and programming languages. I am driven by a tireless curiosity for tackling high impact questions about how our social worlds shape us through cutting-edge approaches. 
 
 
 
-### <span style="color:DarkRed">Technical Skills</span>: R, Python, MATLAB, Bash/Shell, Linux, SLURM, SGE, Google Colab, STATA, SPSS, JASP, JAMOVI, and AWS.
+### <span style="color:DarkRed">Technical Skills</span>: R, Python, MATLAB, Bash/Shell, Linux, SLURM, SGE, Google Colab, Stata, SPSS, JASP, JAMOVI, and AWS.
 
 
 ## <span style="color:DarkRed">Professional Highlights</span>
