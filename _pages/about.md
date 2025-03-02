@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Junaid S. Merchant, Ph.D.
+Hi! I'm Junaid.
 ==============
 
 
-[email](http://merchantjs@gmail.com) | 
+[Email](http://merchantjs@gmail.com) | 
 [GitHub](https://github.com/JunaidMerchant) | 
 [Google Scholar](https://scholar.google.com/citations?user=MeX7UKIAAAAJ) | 
 [ORCID](https://orcid.org/0000-0002-4315-6211) | [OSF](https://osf.io/85skm/) |
