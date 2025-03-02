@@ -6,7 +6,7 @@ collection: research
 ---
 
 
-**I am the lead investigator implementing multilevel modeling approaches to examine intersectional health inequities using I-MAIHDA (intersectional multilevel analysis of individual heterogeneity and discriminatory accuracy).**
+I am the lead investigator implementing multilevel modeling approaches to examine intersectional health inequities using I-MAIHDA (intersectional multilevel analysis of individual heterogeneity and discriminatory accuracy).
 
 
 # <span style="color:darkred">Mental health disparities among US high school students at the intersection of race, gender, and sexual orientation.</span> 

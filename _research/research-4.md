@@ -7,7 +7,7 @@ collection: research
 
 
 
-**I am passionate about investigating the neurocognitive processes underlying social interaction using advanced computational modeling approaches!**
+I am passionate about investigating the neurocognitive processes underlying social interaction using advanced computational modeling approaches!
 
 # <span style="color:darkred">Computational Social Neuroscience</span>
 

@@ -5,7 +5,7 @@ excerpt: "I've worked on multiple projects using neuroscience to inform behavior
 collection: research
 ---
 
-**Through collaborations with the Center for Translational Neuroscience at the University of Oregon, I've examined neurocognitive predictors of behavior change**
+Through collaborations with the Center for Translational Neuroscience at the University of Oregon, I've examined neurocognitive predictors of behavior change
 
 # <span style="color:darkred">Neuroscience of Eating Behavior</span>
 

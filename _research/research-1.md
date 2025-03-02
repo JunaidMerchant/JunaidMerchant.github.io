@@ -7,7 +7,7 @@ collection: research
 
 
 
-**Through my work with the Big Data for Health Equity team, I have gained considerable experience with large-scale data management and analytics using public health data from the CDC and NIH, as well as new media data sources.  I've integrated diverse data sources and used multilevel modeling approaches to examine intersectional health inequities. I'm also involved in research that is developing used novel machine learning approaches to derive public sentiment measures from social media data to use as social-contextual measures to investigate health disparities.**
+Through my work with the Big Data for Health Equity team, I have gained considerable experience with large-scale data management and analytics using public health data from the CDC and NIH, as well as new media data sources.  I've integrated diverse data sources and used multilevel modeling approaches to examine intersectional health inequities. I'm also involved in research that is developing used novel machine learning approaches to derive public sentiment measures from social media data to use as social-contextual measures to investigate health disparities.
 
 # <span style="color:darkred">#BigData4HealthEquity</span>
 
