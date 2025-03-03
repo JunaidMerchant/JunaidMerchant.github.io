@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-###  *<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>*
+###  *You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.*
 
 ## <span style="color:darkred">Social Epidemiology / Data Science</span> 
 
