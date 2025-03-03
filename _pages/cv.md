@@ -11,6 +11,7 @@ redirect_from:
 
 # <span style="color:darkred">Junaid Salim Merchant</span> | *Curriculum Vitae* #
 
+### <a href="mailto:merchantjs@gmail.com"><i class="fas fa-fw fa-envelope " style="color:DarkSlateGray" aria-hidden="true"></i></a>&ensp;<a href="https://github.com/JunaidMerchant"><i class="fab fa-fw fa-github " style="color:Black" aria-hidden="true"></i></a>&ensp;<a href="https://www.linkedin.com/in/junaid-s-merchant"><i class="fab fa-fw fa-linkedin " style="color:DarkSteelBlue" aria-hidden="true"></i></a>&ensp;<a href="https://bsky.app/profile/dingobuck.bsky.social"><i class="fab fa-fw fa-bluesky " style="color:DodgerBlue" aria-hidden="true"></i></a>&ensp;<a href="https://scholar.google.com/citations?user=MeX7UKIAAAAJ"><i class="ai ai-google-scholar " style="color:DarkSteelBlue" aria-hidden="true"></i></a>&ensp;<a href="https://orcid.org/0000-0002-4315-6211"><i class="ai ai-orcid ai-fw " style="color:YellowGreen" aria-hidden="true"></i></a>&ensp;<a href="https://osf.io/85skm/"><i class="ai ai-osf ai-fw " style="color:DarkSteelBlue" aria-hidden="true"></i></a>    
 
 
 ## Education ##
@@ -132,7 +133,9 @@ Psychology Department, University of Oregon
 | 2009 - 2010
 
 ## Service
-* **Co-Organizer Epidemiology and Biostatistics Dept Seminar Series.** UMD | 2022 - current   
+
+* **Co-Organizer Epidemiology and Biostatistics Dept Seminar Series.** UMD 
+| 2022 - current   
 * **Volunteer Coordinator/Developer: Silver Spring/Takoma Park Mutual Aid** [[link](https://sstpmutualaid.wordpress.com/)]
 | 2020 – Current   
 *Created Google Colab Notebooks to save dozens of volunteer hours/week: \\
@@ -140,8 +143,9 @@ Psychology Department, University of Oregon
 &ensp; 2. Map out delivery routes using network science and Google APIs \\
 &ensp; 3. SSTP MA provided $45K/year in direct aid since 2020.*  
 * **Organizer NACS Methods Seminar.** University of Maryland 
-| 2019 – 2022   
-* **Co-Organizer Brainhack Global DC.** [[link](https://brainhackdc.github.io/)] NIH, Georgetown, & U of Maryland | 2018 - 2021    
+| 2019 – 2022    
+* **Co-Organizer Brainhack Global DC.** [[link](https://brainhackdc.github.io/)] NIH, Georgetown, & U of Maryland 
+| 2018 - 2021    
 * **Organizer of fMRI Methods Journal Club.** Georgetown University 
 | 2016 - 2018   
 * **Brain Awareness Week Volunteer.** Georgetown University & University of Maryland 
@@ -175,30 +179,24 @@ Psychology Department, University of Oregon
 ## References
 **Dr. Thu Nguyen** 
 | Associate Professor, University of Maryland – Epidemiology and Biostatistics   
-&ensp; ttxn@umd.edu 
-| 617-963-9595   
+&ensp; ttxn@umd.edu    
 **Dr. Elizabeth Redcay** 
 | Associate Professor, University of Maryland – Psychology   
-&ensp; redcay@umd.edu 
-| 301-405-7612   
+&ensp; redcay@umd.edu     
 **Dr. Luiz Pessoa** | Professor, University of Maryland – Psychology            
-&ensp; pessoa@umd.edu | 301-405-2423   
+&ensp; pessoa@umd.edu  
 **Dr. Alexander Shackman** 
 | Associate Professor, University of Maryland – Psychology   
-&ensp; shackman@umd.edu 
-| 608-358-5025   
+&ensp; shackman@umd.edu    
 **Dr. Chandan Vaidya** 
 | Professor, Georgetown University – Psychology          
-&ensp; cjv2@georgetown.edu 
-| 202-687-9133   
+&ensp; cjv2@georgetown.edu    
 **Dr. Elliot Berkman** 
 | Associate Professor, University of Oregon – Psychology   
-&ensp; berkman@uoregon.edu 
-| 541-346-4909   
+&ensp; berkman@uoregon.edu      
 **Dr. Jennifer Pfeifer** 
 | Associate Professor, University of Oregon – Psychology   
-&ensp; jpfeifer@uoregon.edu 
-| 541-346-1984  
+&ensp; jpfeifer@uoregon.edu  
 
 ## Contact/Links
 **Email** : merchantjs@gmail.com   
