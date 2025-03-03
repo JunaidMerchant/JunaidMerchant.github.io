@@ -13,8 +13,11 @@ redirect_from:
 
 {% include base_path %}
 
+&nbsp;
+&nbsp;
 
-# <span style="color:darkred">Social Epidemiology / Data Science</span> 
+
+## <span style="color:darkred">Social Epidemiology / Data Science</span> 
 
 1. Criss, S., Nguyen, T. T., Gonzales, S. M., Lin, B., Kim, M., Makres, K., ... **Merchant, J. S.**, & Hswen, Y. (2024). “HIV Stigma Exists”—Exploring ChatGPT’s HIV Advice by Race and Ethnicity, Sexual Orientation, and Gender Identity. Journal of Racial and Ethnic Health Disparities, 1-14.
 1. Wei, H., Hswen, Y., **Merchant, J. S.,** Drew, L. B., Nguyen, Q. C., Yue, X., ... & Nguyen, T. T. (2024). From Tweets to Streets: Observational Study on the Association Between Twitter Sentiment and Anti-Asian Hate Crimes in New York City from 2019 to 2022. Journal of Medical Internet Research, 26, e53050.
@@ -27,7 +30,7 @@ redirect_from:
 1. Nguyen, T. T., Criss, S., Kim, M., De La Cruz, M. M., Thai, N., **Merchant, J. S.**, ... & Nguyen, Q. C. (2022). Racism during pregnancy and birthing: experiences from Asian and Pacific Islander, Black, Latina, and Middle Eastern women. *Journal of Racial and Ethnic Health Disparities*, 1-11.
 
 
-# <span style="color:darkred">Social/Developmental Cognitive Neuroscience</span> 
+## <span style="color:darkred">Social/Developmental Cognitive Neuroscience</span> 
 
 1. Xie, H., Moraczewski, D., McNaughton, K. A., Warnell, K. R., Alkire, D., **Merchant, J. S.,** ... & Redcay, E. (2023). Social reward network connectivity differs between autistic and neurotypical youth during social interaction. bioRxiv.
 1. McNaughton, K. A., Kirby, L. A., Warnell, K. R., Alkire, D., **Merchant, J. S.**, Moraczewski, D., ... & Redcay, E. (2023). Social-interactive reward elicits similar neural response in autism and typical development and predicts future social experiences. *Developmental Cognitive Neuroscience*, 59, 101197.
@@ -40,7 +43,7 @@ redirect_from:
 1. Pfeifer, J. H., **Merchant, J. S.**, Colich, N., Hernandez, L., Rudie, J., & Dapretto, M. (2013). Neural and behavioral responses during self-evaluative processes differ in youth with and without autism. *Journal of Autism and Developmental Disorders*, 2, 272-285.
 
 
-# <span style="color:darkred">Clinical Neuroscience</span> 
+## <span style="color:darkred">Clinical Neuroscience</span> 
 
 1. Kaminski, A., Xie, H., You, X., Flaharty, K., Jeppsen, C., Li, S., **Merchant, J. S**., ... & Vaidya, C. J. (2023). 354 Unitary neural correlates of executive control in pediatric transdiagnostic psychopathology. *Journal of Clinical and Translational Science*, *7*(s1), 104-105.
 1. Kaminski, A., You, X., Flaharty, K., Jeppsen, C., Li, S., **Merchant, J. S.**, Berl, M. M., Kenworthy, L., & Vaidya, C. J. (2022). Cingulate-Prefrontal Connectivity During Dynamic Cognitive Control Mediates Association Between P-Factor and Adaptive Functioning in a Transdiagnostic Pediatric Sample. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*. https://doi.org/10.1016/j.bpsc.2022.07.003
@@ -48,14 +51,14 @@ redirect_from:
 1. Loewenstern, J., You, X., **Merchant, J.**, Gordon, E. M., Stollstorff, M., Devaney, J., & Vaidya, C. J. (2019). Interactive effect of 5-HTTLPR and BDNF polymorphisms on amygdala intrinsic functional connectivity and anxiety. *Psychiatry Research: Neuroimaging*, 285, 1-8.
 
 
-# <span style="color:darkred">Translational Neuroscience</span> 
+## <span style="color:darkred">Translational Neuroscience</span> 
 
 1. **Merchant, J. S.**, Cosme, D., Giuliani, N. R., Dirks, B., & Berkman, E. T. (2020). Neural Substrates of Food Valuation and Its Relationship With BMI and Healthy Eating in Higher BMI Individuals. *Frontiers in behavioral neuroscience*, *14*, 578676.
 1. Giuliani, N. R., Cosme, D., **Merchant, J. S.**, Dirks, B., & Berkman, E. T. (2020). Brain activity associated with regulating food cravings predicts changes in self-reported food craving and consumption over time. Frontiers in human neuroscience, 14.
 1. Giuliani, N. R., **Merchant, J. S.**, Cosme, D. & Berkman, E. T. (2018) Neural predictors of dietary change. *Annals of the New York Academy of Sciences*. 1428(1): 208-220.
 1. Berkman, E.T., Kahn, L.E., & **Merchant, J.S.** (2014). Training-induced changes in inhibitory control network activity. *Journal of Neuroscience, 34*(1), 149-157.
 
-# <span style="color:darkred">Open Science/Misc</span> 
+## <span style="color:darkred">Open Science/Misc</span> 
 
 1. Gau, R., Noble, S., Heuer, K., Bottenhorn, K., Bilgin, I. P., Yang, Y. F., … **Merchant, J. S.** .. & Zuo, X. N. (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. *Neuron*, *109*(11), 1769-1775.
 1. Gordon, N.S., **Merchant, J.S.**, Zanbaka, C., Hodges, L.F., & Goolkasian, P. (2011). Interactive gaming reduces experimental pain with or without a head mounted display. *Computers in Human Behavior*, 27, 2123-2128.
