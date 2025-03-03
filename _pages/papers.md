@@ -14,7 +14,6 @@ redirect_from:
 {% include base_path %}
 
 &nbsp;
-&nbsp;
 
 
 ## <span style="color:darkred">Social Epidemiology / Data Science</span> 
