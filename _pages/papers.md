@@ -7,14 +7,10 @@ redirect_from:
   - /papers
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-&nbsp;
 
+###  *<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>*
 
 ## <span style="color:darkred">Social Epidemiology / Data Science</span> 
 
