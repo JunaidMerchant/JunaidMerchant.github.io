@@ -19,11 +19,12 @@ redirect_from:
 
 ## <span style="color:DarkRed">About Me</span> 
 
-I have over a decade of experience providing data-driven insights through cutting-edge analytic pipeline development and large-scale data management. I am currently investigating health inequities using advanced multilevel modeling and novel data science applications. My background is in cognitive neuroscience and I have wide-ranging skillsets in research design, data collection, project management, high performance computing clusters, and programming languages. I am driven by a tireless curiosity for tackling high impact questions about how our social worlds shape us through cutting-edge approaches. 
+With over a decade of experience, I have a proven track record of providing data-driven insights through cutting-edge analytics. I specialize in applying data science tools to behavioral research, public health, and social sciences. Currently, I am investigating health inequities using advanced multilevel modeling and novel machine learning applications. Fueled by an unrelenting curiosity, I strive to deepen our understanding of how social environments shape us and am passionate about driving meaningful change that positively impacts the world.
+
+My background is in cognitive neuroscience, and I possess a diverse skill set in research design, data collection, project management, high-performance computing, and multiple programming languages. I have employed a variety of analytical techniques, including network analysis, Bayesian statistics, and artificial vision models. Throughout my professional experiences, I have worked with various types of large-scale data, including public health data from the CDC and NIH, social media data from multiple platforms, private health records, and human neuroimaging data. Driven by my enthusiasm for innovation, I am deeply committed to pioneering evidence-based approaches to uncover new knowledge. 
 
 
-
-### <span style="color:DarkRed">Technical Skills</span>: R, Python, MATLAB, Bash/Shell, Linux, SLURM, SGE, Google Colab, Stata, SPSS, JASP, JAMOVI, and AWS.
+**<span style="color:DarkRed">Strengths</span>**: *Data Science and Visualizations, Analytic Pipeline Development, Multi-Team Collaboration, Multilevel Modeling, Project Management, Machine Learning, Scientific/Technical Writing, fMRI, Social Epidemiology*
 
 
 ## <span style="color:DarkRed">Professional Highlights</span>
@@ -42,17 +43,22 @@ I have over a decade of experience providing data-driven insights through cuttin
 
 
 ## <span style="color:DarkRed">Education</span>  
-&ensp;• Ph.D. in Neuroscience and Cognitive Science, University of Maryland  
-&ensp;• M.S. in Experimental Psychology, Seton Hall University  
-&ensp;• B.A. in Psychology and Studio Art, University of North Carolina, Asheville  
+&ensp;• **Ph.D. Neuroscience and Cognitive Science** | University of Maryland    
+&ensp;• **M.S. in Experimental Psychology** | Seton Hall University   
+&ensp;• **B.A. in Psychology and Studio Art** | University of North Carolina, Asheville  
+
+## <span style="color:DarkRed">Awards</span>   
+&ensp;• **2nd Place Data Competition** | Computational Social & Affective Neuroscience   
+&ensp;• **Outstanding Graduate Assistant Award** | Top 2% of UMD Graduate Students  
+&ensp;• **Network Science Graduate Fellowship** | COMBINE       
+&ensp;• **Broadening Participation Grant** | Open Science Training  
+&ensp;• **Diversity Award** | Social & Affective Neuroscience Society      
 
 
-## <span style="color:DarkRed">Strengths and Interests</span>:  
-&ensp;• Data Science and Visualizations  
-&ensp;• Multilevel Modeling  
-&ensp;• Social Epidemiology  
-&ensp;• Cognitive Neuroscience  
-&ensp;• Open Science / Data Practices
+## <span style="color:DarkRed">Technical Skills</span>
 
-
-
+* **Programming Environments**: R, Python, MATLAB, Bash/Shell, Linux, SLURM, SGE, Docker, Singularity   
+* **Data Visualization**: Adobe Photoshop, R - ggplot, ShinyR, sjPlot; Python - matplotlib, Seaborn; NetworkX   
+* **Analysis Software**: R - glmmTMB, lmer, glm, ggeffects; Python - scikit-learn, gspread, pandas, numpy scipy, statsmodels, networkX; JAMOVI/JASP, Stata, SPSS   
+* **Web Tools**: Google Colab, AWS, GitHub   
+* **MRI Software**: SPM, AFNI, fMRIprep, NiMARE, FSL, MRIcroGL, CoSMoMVPA, Brain Connectivity Toolbox, Decoding Toolbox, Nilearn, NLtools, NiBabel, Connectome Workbench, Freesurfer, Network Based Statistics   
