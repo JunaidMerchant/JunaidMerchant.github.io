@@ -22,6 +22,10 @@ Using ten years of Twitter data, we developed area-level measures of racial sent
 ## Intersectional Youth Mental Health Disparities in the CDC's Youth Risk Behavior Survey data
 
 
-* [Intersectional Youth Mental Health Interactive](https://junaidmerchant.shinyapps.io/YRBSS_MAIHDA/)
+* [Intersectional Youth Mental Health Interactive (preview):](https://junaidmerchant.shinyapps.io/YRBSS_MAIHDA/)
 
-![Racial Sentiment](/images/ShinyApp.png)
+<iframe id="example1" src="https://junaidmerchant.shinyapps.io/YRBSS_MAIHDA/"
+style="border: non; width: 100%; height: 1000px"
+frameborder="0">
+</iframe>
+
