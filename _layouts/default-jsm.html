@@ -1,0 +1,24 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head style="background-color:black; color:white;">
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body style="background-color:black; color:white;">
+
+    {% include browser-upgrade.html %}
+
+    {{ content }}
+
+    {% include scripts.html %}
+
+  </body>
+</html>
