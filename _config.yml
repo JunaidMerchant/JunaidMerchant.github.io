@@ -225,6 +225,9 @@ collections:
   resume:
     output: true
     permalink: /:collection/:path/  
+  professional:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
