@@ -23,9 +23,11 @@ I collaborate with kinesiology researchers at UMD's School of Public Health in d
 
 # <span style="color:darkred">Transdiagnostic Executive Function in Pediatric Psychiatry</span>
 
+
 ## Research Associate · Georgetown University / Children's National Hospital
 
-<p style="margin-bottom:1.6em"><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Pediatrics</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Mental Health</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Cognitive Neuroscience</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Clustering</span><a href="/tags/#machine-learning" style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Machine Learning</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Neuroimaging</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Python</span></p>
+
+<p style="margin-bottom:1.6em"><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Pediatrics</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Mental Health</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Cognitive Neuroscience</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Clustering</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Machine Learning</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Neuroimaging</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Python</span></p>
 
 
 Psychiatric diagnostic categories are administratively convenient and biologically
@@ -57,11 +59,14 @@ NIH, Georgetown, and the University of Maryland.
 
 # <span style="color:darkred">Neuroscience of Eating Behavior</span>
 
+
 ## Project Coordinator/Lab Manager · Center for Translational Neuroscience, University of Oregon
+
 
 Through collaborations with the Center for Translational Neuroscience at the University of Oregon, I've examined neurocognitive predictors of behavior change. 
 
 ![EatingReview](/images/EatingReview.png)
+
 
 <p style="margin-bottom:1.6em"><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Health Behavior</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Cognitive Neuroscience</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">Neuroimaging</span><span style="display:inline-block;font-size:0.78em;padding:2px 9px;margin:0 4px 5px 0;border-radius:99px;border:1px solid #c3c2b7;color:#52514e;text-decoration:none;white-space:nowrap">MATLAB</span></p>
 
