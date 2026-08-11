@@ -11,36 +11,43 @@ redirect_from:
 ==============
 
 
+I am a data scientist with 15+ years of research experience and a PhD in cognitive neuroscience. My work sits where messy, large-scale, real-world data meets questions people actually care about — who is at risk, who recovers, and which social conditions are doing the damage. I am passionate about delivering data-driven insights through cutting-edge analytics, developing interactive data visualizations, and reproducible data analysis pipelines.
 
-   
-### <a href="mailto:merchantjs@gmail.com"><i class="fas fa-fw fa-envelope " style="color:DarkSlateGray" aria-hidden="true"></i></a>&ensp;<a href="https://github.com/JunaidMerchant"><i class="fab fa-fw fa-github " style="color:Black" aria-hidden="true"></i></a>&ensp;<a href="https://www.linkedin.com/in/junaid-s-merchant"><i class="fab fa-fw fa-linkedin " style="color:DarkSteelBlue" aria-hidden="true"></i></a>&ensp;<a href="https://bsky.app/profile/dingobuck.bsky.social"><i class="fab fa-fw fa-bluesky " style="color:DodgerBlue" aria-hidden="true"></i></a>&ensp;<a href="https://scholar.google.com/citations?user=MeX7UKIAAAAJ"><i class="ai ai-google-scholar " style="color:DarkSteelBlue" aria-hidden="true"></i></a>&ensp;<a href="https://orcid.org/0000-0002-4315-6211"><i class="ai ai-orcid ai-fw " style="color:YellowGreen" aria-hidden="true"></i></a>&ensp;<a href="https://osf.io/85skm/"><i class="ai ai-osf ai-fw " style="color:DarkSteelBlue" aria-hidden="true"></i></a>    
+Currently, I am the Lead Data Scientist on a Defense Health Agency research contract at Pivot Path Solutions, where I built an integrated database from roughly 200 million military and civilian health records to support epidemiological analysis of hearing loss. Before that I spent three years as Research Faculty at University of Maryland's Big Data for Health Equity, using machine learning and new media data analysis to examine disparities in adolescent mental health, cognitive aging, and birth outcomes. My background in neuroscience and psychology provides me with a diverse skill set in research design, project management, and various analytical techniques. Across my experiences, I have gained expertise in individual- and population-level research in public health, cognitive neuroscience, and clinical, social, and developmental psychology.  
 
-
-
-## <span style="color:DarkRed">About Me</span> 
-
-With over a decade of experience, I have a proven track record of providing data-driven insights through cutting-edge analytics. I specialize in applying data science tools to behavioral research, public health, and social sciences. Currently, I am investigating health inequities using advanced multilevel modeling and novel machine learning applications. Fueled by an unrelenting curiosity, I strive to deepen our understanding of how social environments shape us and am passionate about driving meaningful change that positively impacts the world.
-
-My background is in cognitive neuroscience, and I possess a diverse skill set in research design, data collection, project management, high-performance computing, and multiple programming languages. I have employed a variety of analytical techniques, including network analysis, Bayesian statistics, and artificial vision models. Throughout my professional experiences, I have worked with various types of large-scale data, including public health data from the CDC and NIH, social media data from multiple platforms, private health records, and human neuroimaging data. Driven by my enthusiasm for innovation, I am deeply committed to pioneering evidence-based approaches to uncover new knowledge. 
-
-
-**<span style="color:DarkRed">Strengths</span>**: *Data Science and Visualizations, Analytic Pipeline Development, Multi-Team Collaboration, Multilevel Modeling, Project Management, Machine Learning, Scientific/Technical Writing, fMRI, Social Epidemiology*
+**<span style="color:DarkRed">Strengths</span>**: *Data Engineering & Pipeline Development, Multilevel & Intersectional Modeling, Machine Learning for Research, Real-World Health Data, Interactive Data Visualization, Reproducible Research, Cross-Functional Collaboration, Scientific & Technical Writing*
 
 
 ## <span style="color:DarkRed">Professional Highlights</span>
-**Data Analyst at Big Data for Health Equity (BD4HE)**  
-&ensp;• Advancing multilevel modeling techniques for health inequities  
-&ensp;• Developed social media machine learning models for public sentiment  
-&ensp;• Large-scale data management and analytics on public health datasets  
+**Lead Data Scientist | Pivot Path Solutions — Defense Health Agency / MTEC Contract**  
+&ensp;• Built a Bronze/Silver/Gold medallion databases spanning 15 military and civilian health data systems  
+&ensp;• Engineered novel clinical features — audiogram morphology, protective equipment, occupational taxonomies  
+&ensp;• Delivered 14 of 14 contract deliverables on or ahead of schedule  
 
-**Neuroscience of Social Interaction at University of Maryland**  
-&ensp;• Supercomputing implementation for neuroimaging data  
-&ensp;• Network-based and Bayesian analyses of fMRI data  
+**Research Faculty | Big Data for Health Equity, University of Maryland**  
+&ensp;• Lead author on intersectional MAIHDA research in the *American Journal of Epidemiology*  
+&ensp;• Developed machine learning pipelines for social-media-derived public sentiment  
+&ensp;• Built interactive tools putting estimates in the hands of policymakers and advocates  
 
-**Pediatric Psychiatry at Georgetown University / Children’s National**  
+**Graduate Research Fellow | Neuroscience and Cognitive Science, University of Maryland**  
+&ensp;• Coordinate-based meta-analysis of 108 neuroimaging studies published in *Aperture Neuro*  
+&ensp;• Organized Methods Seminar, high-performance computing training, and Brainhack DC
+
+**Research Associate | Georgetown University / Children's National Hospital**  
 &ensp;• End-to-end pipeline development for large-scale clinical data collection  
-&ensp;• Trained graduate students and organized hands-on analysis workshops
+&ensp;• Validated clustering algorithms for transdiagnostic executive function dimensions   
 
+
+## <span style="color:DarkRed">Technical Skills</span>
+
+* **Programming & Query**: Python, R, Bash/Shell, Linux, MATLAB, Stata, SQL     
+* **Statistics & Modeling**: Multilevel and hierarchical models (glmmTMB, lme4), logistic regression & GLM (statsmodels), longitudinal and trajectory modeling, coordinate-based meta-analysis, survey methods, network analysis, predictive modeling and evaluation under class imbalance (PR-AUC), intersectional multilevel modeling (I-MAIHDA)
+* **Machine Learning**: scikit-learn, natural language processing (NLP) and sentiment classification, clustering and dimensionality reduction, feature engineering   
+* **Data Visualization**: R — ggplot2, Shiny, sjPlot; Python — matplotlib, seaborn, plotly, NetworkX; Adobe Creative Suite   
+* **Infrastructure**: High-performance computing (SLURM, SGE), Docker/Singularity, Google Colab, AWS, GitHub   
+* **Health Data**: Structured public health data from Center for Disease Control and Prevention (CDC), National Institute on Aging (NIA), National Center for Health Statistics (NCHS); Unstructured real-world data (RWD) for deriving real world evidence (RWE) from electronic health records (EHR), electronic medical records (EMR), and medical claims; International Classification of Diseases (ICD) and Current Procedural Terminology (CPT) coding systems; military health systems; social media-derived surveillance   
+* **Neuroimaging**: SPM, AFNI, fMRIprep, NiMARE, FSL, MRIcroGL, CoSMoMVPA, Brain Connectivity Toolbox, Decoding Toolbox, Nilearn, NLtools, NiBabel, Connectome Workbench, FreeSurfer, Network Based Statistics   
+* **Data Engineering**: Medallion/lakehouse architecture, ETL pipeline development, data quality & QC frameworks, record linkage, feather/parquet, Git, Snowflake
 
 ## <span style="color:DarkRed">Education</span>  
 &ensp;• **Ph.D. Neuroscience and Cognitive Science** | University of Maryland    
@@ -48,17 +55,8 @@ My background is in cognitive neuroscience, and I possess a diverse skill set in
 &ensp;• **B.A. in Psychology and Studio Art** | University of North Carolina, Asheville  
 
 ## <span style="color:DarkRed">Awards</span>   
-&ensp;• **2nd Place Data Competition** | Computational Social & Affective Neuroscience   
+&ensp;• **2nd Place Data Competition** | Computational Social & Affective Neuroscience, 2022   
 &ensp;• **Outstanding Graduate Assistant Award** | Top 2% of UMD Graduate Students  
-&ensp;• **Network Science Graduate Fellowship** | COMBINE       
+&ensp;• **Network Science Graduate Fellowship** | COMBINE (NSF-funded)       
 &ensp;• **Broadening Participation Grant** | Open Science Training  
-&ensp;• **Diversity Award** | Social & Affective Neuroscience Society      
-
-
-## <span style="color:DarkRed">Technical Skills</span>
-
-* **Programming Environments**: R, Python, MATLAB, Bash/Shell, Linux, SLURM, SGE, Docker, Singularity   
-* **Data Visualization**: Adobe Photoshop, R - ggplot, ShinyR, sjPlot; Python - matplotlib, Seaborn; NetworkX   
-* **Analysis Software**: R - glmmTMB, lmer, glm, ggeffects; Python - scikit-learn, gspread, pandas, numpy scipy, statsmodels, networkX; JAMOVI/JASP, Stata, SPSS   
-* **Web Tools**: Google Colab, AWS, GitHub   
-* **MRI Software**: SPM, AFNI, fMRIprep, NiMARE, FSL, MRIcroGL, CoSMoMVPA, Brain Connectivity Toolbox, Decoding Toolbox, Nilearn, NLtools, NiBabel, Connectome Workbench, Freesurfer, Network Based Statistics   
+&ensp;• **Diversity Award** | Social & Affective Neuroscience Society    
